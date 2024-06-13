@@ -1,5 +1,5 @@
-# Obtener Clave Wifi de la red en la que estas sin tener que ir al rooter
-**Solo funciona con redes wifi donde tu estes conectado y se puede hacer exactamente lo mismo en cmd solo que lo automatizas en un script**
+# Redirigir
+**Este programa te redirige a una pagina web que tu desees, se puede usar para redirigir a paginas web que contengan algún tipo de malware**
 
 # Code
 
